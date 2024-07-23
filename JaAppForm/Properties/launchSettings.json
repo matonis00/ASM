@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JaAppForm": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

@@ -1,0 +1,4 @@
+﻿  Assembling JaAsm.asm...
+JaAsm.def(1): warning LNK4017: instrukcja LIBIARY nie jest obsługiwana dla platformy docelowej; zignorowano
+     Trwa tworzenie biblioteki D:\Projekty\JA\Project\JaProj1\x64\Debug\JaAsm.lib i obiektu D:\Projekty\JA\Project\JaProj1\x64\Debug\JaAsm.exp
+  JaAsm.vcxproj -> D:\Projekty\JA\Project\JaProj1\x64\Debug\JaAsm.dll
